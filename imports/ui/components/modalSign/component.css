@@ -1,0 +1,21 @@
+.modalBody{
+    display: block;
+}
+button{
+    color:#fff;
+}
+.btn:first-child{
+    margin: 15px;
+    background: red;
+    width: 100%;
+}
+.btn:nth-child(2){
+    margin: 15px;
+    background: #eee;
+    width: 100%;
+}
+.modalBody input{
+    width: 100% !important;
+    margin: 15px !important;
+    border: 1px solid rgba(0, 0, 0, 0.15) !important;
+}

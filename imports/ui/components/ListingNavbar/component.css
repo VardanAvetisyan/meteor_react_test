@@ -1,0 +1,7 @@
+.navbar-nav {
+    flex-direction: row !important;
+}
+
+.navbar-nav li {
+    margin: 0 20px;
+}
